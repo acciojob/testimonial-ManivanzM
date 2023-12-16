@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+*{
+	background-color : #f5f5f5;
+}
+#line1{
+	color: none;
+	background-color : white;
+	padding : 10px;
+}
+#line2{
+	color: none;
+	background-color : white;
+	padding : 10px;
+}
+.author{
+	text-align : right;
+	font-style : italic;
+}
