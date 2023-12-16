@@ -5,12 +5,14 @@ main{
 }
 #line1{
 	font-style: none;
+	font-size : 10px;
 	background-color : white;
 	padding : 10px;
 	border : 1px solid #e2e2e2;
 }
 #line2{
 	font-style: none;
+	font-size : 10px;
 	background-color : white;
 	padding : 10px;
 	border : 1px solid #e2e2e2;
